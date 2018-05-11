@@ -1,0 +1,25 @@
+Record with SID=571147876 exists
+Record with SID=299843574 exists
+977076767|Wilson|Nevaeh|For
+125602907|Short|Name|St
+No record with SID=198079512 exists
+555107944|Noel|Eleanor|Soc
+503571980|Short|Name|St
+No record with SID=510542103 exists
+No record with SID=947201197 exists
+Index:
+key=125602907: offset=31
+key=299843574: offset=274
+key=503571980: offset=152
+key=555107944: offset=63
+key=571147876: offset=215
+key=643323438: offset=246
+key=781516855: offset=121
+key=853086613: offset=183
+key=977076767: offset=0
+Availability:
+size=4: offset=179
+size=5: offset=58
+size=28: offset=93
+Number of holes: 3
+Hole space: 37

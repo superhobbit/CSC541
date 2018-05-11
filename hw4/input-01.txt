@@ -1,0 +1,38 @@
+find 20
+add 3
+add 19
+add 4
+add 20
+print
+add 20
+add 1
+add 13
+add 16
+add 9
+add 2
+add 23
+add 14
+add 7
+add 21
+add 18
+add 11
+print
+add 3
+add 5
+add 8
+add 15
+add 12
+add 10
+add 25
+add 17
+add 26
+add 6
+add 24
+add 22 
+print
+find 12
+find -1
+find 26
+find 14
+find 27
+end

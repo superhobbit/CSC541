@@ -1,0 +1,22 @@
+781516855|Taylor|Madison|Hi
+No record with SID=175890502 exists
+555107944|Noel|Eleanor|Soc
+No record with SID=703461300 exists
+Record with SID=781516855 exists
+Record with SID=571147876 exists
+No record with SID=288726663 exists
+No record with SID=265653939 exists
+Index:
+key=205163635: offset=93
+key=299843574: offset=274
+key=555107944: offset=63
+key=571147876: offset=215
+key=643323438: offset=246
+key=781516855: offset=121
+key=853086613: offset=183
+key=977076767: offset=0
+Availability:
+size=32: offset=31
+size=31: offset=152
+Number of holes: 2
+Hole space: 63

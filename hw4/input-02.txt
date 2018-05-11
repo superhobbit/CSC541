@@ -1,0 +1,15 @@
+find 2
+add 3
+add 27
+add -1
+add -2
+add -3
+add -4
+add -5
+print
+add 1
+find 20
+find 27
+find -5
+find -6
+end
